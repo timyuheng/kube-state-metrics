@@ -1,1 +1,1 @@
-FROM quay.io/coreos/kube-state-metrics:v1.9.3
+FROM quay.io/coreos/kube-state-metrics:v1.3.0
